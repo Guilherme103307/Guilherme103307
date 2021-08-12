@@ -12,4 +12,6 @@
 
 <p> Meus projetos sempre estiveram relacionados com front-end e a criação de sites e é o que você mais encontrará por aqui ❤️ </p>
 
+<p> Aproveite para conhecer meu portifolio no <a href="https://www.behance.net/guilherme-olimpio"><strong> Behance :)</a><strong></p>
+
 <p> Até mais 👋😄 </p>
