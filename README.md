@@ -1,7 +1,15 @@
 <h1>Guilherme Olimpio</h1>
 
-Olá, tudo bem? 
-👨🏻‍🎨 Sou o Guilherme, e aqui guardo alguns dos meus projetos como desenvolvedor 
-Como bom designer que sou, minhas paixões sempre foram relacionadas a front-end 
-e é o que você mais encontrará por aqui ❤️
-Até mais 👋😄
+<p> Olá, tudo bem?</p>
+
+<p> 👨🏻‍🎨 Sou o Guilherme, e aqui guardo alguns dos meus projetos como desenvolvedor.</p>
+
+<p> Atualmente moro em Formiga/MG com minha família </p>
+
+<p> Sou formado no curso Técnico em Informática do IFMG e estudante de Design Gráfico na Escola de Design da UEMG </p>
+
+<p> Atualmente trabalho com Desenvolvimento WEB, em HTML, CSS, PHP, JavaScript e Wordpress. </p>
+
+<p> Meus projetos sempre estiveram relacionados com front-end e a criação de sites e é o que você mais encontrará por aqui ❤️ </p>
+
+<p> Até mais 👋😄 </p>
