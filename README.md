@@ -4,7 +4,7 @@
 
 <p> 👨🏻‍🎨 Sou o Guilherme, e aqui guardo alguns dos meus projetos como desenvolvedor.</p>
 
-<p> Moro em Formiga/MG com minha família </p>
+<p> Moro em Belo Horizonte/MG com minha família </p>
 
 <p> Sou formado no curso Técnico em Informática do IFMG e estudante de Design Gráfico na Escola de Design da UEMG </p>
 
